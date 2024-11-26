@@ -8,9 +8,9 @@
 
 ## Tools 🔨
 - HTML
-  - CSS
-  - JavaScript
-  - Visual Studio Code
+- CSS
+- JavaScript
+- Visual Studio Code
 
 ## What I learned 📝 
   - JavaScript Functions
